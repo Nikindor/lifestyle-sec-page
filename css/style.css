@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+header nav ul {
+    list-style: none;
+    font-size: 14px;
+    line-height: 19px;
+    color: #7D7D7D;
+}
+ul li {
+    float: left;
+    margin-right: 99px;
+}
+header {
+    width: 700px;
+    height: 19px;
+    margin: 71px auto;
+}
+.clear {
+    clear: both;
+}
+footer {
+    
+    text-align: center;
+    margin-bottom: 100px;
+}
+input[type=button] {
+    padding: 20px 30px;
+    color: #626262;
+    font-family: Playfair Display;
+    width: 165px;
+    height: 60px;
+}
+main {
+    width: 906px;
+    height: 1200px;
+    margin: 92px auto 0px auto;
+}
+.nav-item1 {
+    color: #03A9F4;
+}
+/* button {
+    color: #626262;
+    font-family: Playfair Display;
+    font-style: normal;
+    position: absolute;
+    width: 165px;
+    height: 60px;
+    left: 506px;
+    top: 1436px;
+    border: 1px solid #626262;
+} */
+.card1 {
+    float: left;
+    width: 420px;   
+    height: 546px;
+}
+.card1 img {
+    float: left;
+    width: 420px;
+    height: 280px;
+}
+.card1 a {
+    float: left;
+    margin-top: 32px;
+    list-style: none;
+    width: 64px;
+    height: 33px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card1 h2 {
+    float: left;
+    width: 408px;
+    height: 40px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card1 div {
+    float: left;
+    width: 420px;
+    height: 76px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
+.card2 {
+    float: right;
+    width: 420px;   
+    height: 546px;
+}
+.card2 img {
+    float: left;
+    width: 420px;
+    height: 280px;
+}
+.card2 a {
+    float: left;
+    margin-top: 32px;
+    list-style: none;
+    width: 64px;
+    height: 16px;
+    top: 342px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card2 h2 {
+    float: left;
+    margin-top: 32px;
+    width: 408px;
+    height: 40px;
+    top: 390px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card2 div {
+    float: left;
+    margin-top: 32px;
+    width: 420px;
+    height: 76px;
+    top: 470px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
+.card3 {
+    width: 421px;
+    height: 516px;
+    margin-top: 130px;
+    float: left;
+}
+.card3 img {
+    float: left;
+    width: 420px;
+    height: 280px;
+}
+.card3 a {
+    float: left;
+    list-style: none;
+    width: 64px;
+    height: 16px;
+    margin-top: 32px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card3 h2 {
+    float: left;
+    width: 408px;
+    height: 40px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card3 div {
+    float: left;
+    width: 420px;
+    height: 76px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
+.card4 {
+    width: 420px;
+    height: 516px;
+    margin-top: 130px;
+    float: right;
+}
+.card4 img {
+    width: 420px;
+    height: 280px;
+    margin-top: 0px;
+}
+.card4 a {
+    float: left;
+    list-style: none;
+    width: 64px;
+    height: 16px;
+    margin-top: 32px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card4 h2 {
+    float: left;
+    width: 408px;
+    height: 40px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card4 div {
+    float: left;
+    width: 420px;
+    height: 76px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
