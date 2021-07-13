@@ -25,9 +25,9 @@ header {
     clear: both;
 }
 footer {
-    
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 66px;
+    margin-top: 94px;
 }
 input[type=button] {
     padding: 20px 30px;
@@ -38,7 +38,7 @@ input[type=button] {
 }
 main {
     width: 906px;
-    height: 1200px;
+    height: 1658px;
     margin: 92px auto 0px auto;
 }
 .nav-item1 {
@@ -157,7 +157,7 @@ main {
 .card3 {
     width: 421px;
     height: 516px;
-    margin-top: 130px;
+    margin-top: 50px;
     float: left;
 }
 .card3 img {
@@ -206,7 +206,7 @@ main {
 .card4 {
     width: 420px;
     height: 516px;
-    margin-top: 130px;
+    margin-top: 50px;
     float: right;
 }
 .card4 img {
@@ -241,6 +241,104 @@ main {
     color: #626262;
 }
 .card4 div {
+    float: left;
+    width: 420px;
+    height: 76px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
+.card5 {
+    width: 420px;
+    height: 516px;
+    margin-top: 50px;
+    float: left;
+}
+.card5 img {
+    width: 420px;
+    height: 280px;
+    margin-top: 0px;
+}
+.card5 a {
+    float: left;
+    list-style: none;
+    width: 64px;
+    height: 16px;
+    margin-top: 32px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card5 h2 {
+    float: left;
+    width: 408px;
+    height: 40px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card5 div {
+    float: left;
+    width: 420px;
+    height: 76px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;  
+}
+.card6 {
+    width: 420px;
+    height: 516px;
+    margin-top: 50px;
+    float: right;
+}
+.card6 img {
+    width: 420px;
+    height: 280px;
+    margin-top: 0px;
+}
+.card6 a {
+    float: left;
+    list-style: none;
+    width: 64px;
+    height: 16px;
+    margin-top: 32px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    text-decoration: none;
+}
+.card6 h2 {
+    float: left;
+    width: 408px;
+    height: 40px;
+    margin-top: 32px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.card6 div {
     float: left;
     width: 420px;
     height: 76px;
